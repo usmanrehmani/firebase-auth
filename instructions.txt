@@ -1,0 +1,4 @@
+Run following commands to run this project:
+1: npm install       to download node modules
+2: npm run dev
+3: npm run start       to run project
